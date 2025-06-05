@@ -1,5 +1,5 @@
 ---
-title: "keeb"
+title: "toro-board"
 author: "sarah ngai | @idksarah"
 description: "keeb"
 created_at: "2025-04-6"
@@ -21,16 +21,22 @@ Running with top mount i think
 -Would love to CAD a PC/something with a screen so i can put a pic of toro inoue :3 dump in a light too
 ![alt text](journalPics/personalityKey.png)
 
-Read up on custom keeb designing guides :3
--https://github.com/ruiqimao/keyboard-pcb-guide
+Read up on custom keeb designing guides :3 \n
+-https://github.com/ruiqimao/keyboard-pcb-guide \n
 -Will reference this https://github.com/Bemeier/bmek or this https://github.com/coarse/Cordillera for the PCB
 
 Referenced Pieboard for the design process !!![alt text](image.png)
 
-Entry #1.1
-8:23pm-11:21pm
+Entry #2
+8:23pm-11:21pm | 3 hours
 imported necessary libraries (kailh, raspi pico), set up footprints for encoder specifically bc kicad didnt link the encoder symbol with its footprint? 
 first draft of switch layout! linked the kailh socket with a random switch symbol but i have the footprint so its gwaenchana!
 schematic rn:[alt text](journalPics/schematic1.png.png) 
 
 i was. talking to someone. i think my rasppi symbol might be wrong. # fried. will look into it later LMFAOO
+---
+6/5/2025
+Entry #3
+10:22am-11:44am | 1 hour \n
+added led string
+![alt text](schematic1.1.png)
