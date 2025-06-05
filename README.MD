@@ -1,2 +1,3 @@
 Parts
--Kailh hot swap sockets 
+-Kailh hot swap sockets https://www.aliexpress.com/ssr/300000512/BundleDeals2?spm=a2g0o.productlist.main.10.411a4637qbfTs7&productIds=1005006610157756:12000037825583668&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A
+-male micro female c adapter https://www.aliexpress.us/item/3256806952251027.html?spm=a2g0o.productlist.main.2.11f1zfdGzfdG79&algo_pvid=72adc6bf-4bea-4dfc-a1ae-2b2b16d75149&algo_exp_id=72adc6bf-4bea-4dfc-a1ae-2b2b16d75149-1&pdp_ext_f=%7B%22order%22%3A%222436%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.94%211.74%21%21%2113.83%2112.40%21%402103205117491032605798340e780a%2112000039540969446%21sea%21US%210%21ABX&curPageLogUid=iZDdc4xK8Ylx&utparam-url=scene%3Asearch%7Cquery_from%3A

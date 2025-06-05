@@ -4,8 +4,9 @@ author: "sarah ngai | @idksarah"
 description: "keeb"
 created_at: "2025-04-6"
 ---
-6/4/2025 (June 4 2025) | Entry #1 | Highway Call !!
-4:25 to 5:51 | 1.5 hours
+6/4/2025 (June 4 2025) 
+Entry #1
+4:25pm-5:51pm | 1.5 hours
 Researched parts
 -Kailh hot swap sockets 
 -Xiao
@@ -25,3 +26,11 @@ Read up on custom keeb designing guides :3
 -Will reference this https://github.com/Bemeier/bmek or this https://github.com/coarse/Cordillera for the PCB
 
 Referenced Pieboard for the design process !!![alt text](image.png)
+
+Entry #1.1
+8:23pm-11:21pm
+imported necessary libraries (kailh, raspi pico), set up footprints for encoder specifically bc kicad didnt link the encoder symbol with its footprint? 
+first draft of switch layout! linked the kailh socket with a random switch symbol but i have the footprint so its gwaenchana!
+schematic rn:[alt text](journalPics/schematic1.png.png) 
+
+i was. talking to someone. i think my rasppi symbol might be wrong. # fried. will look into it later LMFAOO
