@@ -24,4 +24,4 @@ Read up on custom keeb designing guides :3
 -https://github.com/ruiqimao/keyboard-pcb-guide
 -Will reference this https://github.com/Bemeier/bmek or this https://github.com/coarse/Cordillera for the PCB
 
-Referenced Pieboard for the design process !!
+Referenced Pieboard for the design process !!![alt text](image.png)
