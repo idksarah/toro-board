@@ -49,3 +49,10 @@ https://www.aliexpress.us/item/2251832437268792.html?spm=a2g0o.productlist.main.
 
 #idontknowwhatimdoing. started the pcb
 ![alt text](journalPics/pcb1.png)
+---
+6/5/2025
+Entry #5
+Made the spacing between center holes 19.05 bc i was on the wrong grid before 💀![alt text](journalPics/pcb1.1.png)
+Swapping the windows and alt left keys. reg size keys
+gotta add stagger and review this bc i eyeballed all the support stuff 💀
+![alt text](journalPics/pcb1.2.png)
