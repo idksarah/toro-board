@@ -52,7 +52,17 @@ https://www.aliexpress.us/item/2251832437268792.html?spm=a2g0o.productlist.main.
 ---
 6/5/2025
 Entry #5
+9pm-12pm | 3 hours
 Made the spacing between center holes 19.05 bc i was on the wrong grid before 💀![alt text](journalPics/pcb1.1.png)
 Swapping the windows and alt left keys. reg size keys
 gotta add stagger and review this bc i eyeballed all the support stuff 💀
 ![alt text](journalPics/pcb1.2.png)
+---
+6/6/2025
+Entry #6
+12:27pm-1:49pm | 1.5 hours
+
+might put in a usb port? idk
+watched like. 10 vids on desigining a keeb. now understand why kerboards r $120. pls kil lme
+![alt text](journalPics/keycaps.png)
+no clue what im doing but i have to go study for the sat ![alt text](journalPics/pcb1.3.png)
