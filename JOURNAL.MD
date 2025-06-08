@@ -81,3 +81,5 @@ referencing these keebs for looks: https://www.reddit.com/r/raspberry_pi/comment
 kittne ddaddys about to kill herself
 ![alt text](journalPics/pcb1.6.png)
 basically i placed all my keys in the wrong place and theyre liike. in the perfect layout and i refuse to move them. so. im mnaullay renaming every switch and diode 💀💀 pls god kill me JK
+im fried
+![alt text](image.png)
