@@ -1417,7 +1417,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "033abba7-27fc-4549-af9e-fd77e711c68e")
-		(at 228 125.655 90)
+		(at 228 125.8175 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D55"
@@ -3176,7 +3176,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "086621fd-0725-42c5-bfd5-c3b2a466cbc7")
-		(at 232.41 104.7)
+		(at 232.41 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW41"
@@ -5090,7 +5090,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "0b7b83fb-1aea-44af-92a3-87a6b0523a76")
-		(at 215.265 85.65)
+		(at 215.265 85.725)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW24"
@@ -8517,7 +8517,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "13acf0a6-2beb-4c3d-ba0d-e50be58eb85d")
-		(at 257.175 123.75)
+		(at 257.175 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW57"
@@ -9827,7 +9827,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "1b2d2e61-3956-460e-83c4-329f644d3e70")
-		(at 194.31 104.7)
+		(at 194.31 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW38"
@@ -10367,7 +10367,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "1b7103d8-adde-45f6-9223-fc7bba4cd1b1")
-		(at 181.1775 128.26)
+		(at 181.1775 128.335)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D125"
@@ -11046,7 +11046,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "1effbb02-22dc-428b-b20c-6aef00f3fdd1")
-		(at 238.125 123.75)
+		(at 238.125 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW56"
@@ -19409,7 +19409,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "3557e22d-f1da-492b-867e-4738dad37a29")
-		(at 180.975 123.75)
+		(at 180.975 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW53"
@@ -22601,7 +22601,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "3f7fc42a-6c8e-414f-becb-fd39ef9e73c0")
-		(at 213.36 104.7)
+		(at 213.36 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW40"
@@ -23729,7 +23729,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "44009890-83b8-4d6a-9c02-1c2e334ec7b3")
-		(at 205 87.555 90)
+		(at 205 87.63 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D23"
@@ -24114,7 +24114,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "443721a5-dca7-415c-af7e-69ab73ce0c12")
-		(at 186 87.81 90)
+		(at 186 87.885 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D22"
@@ -24884,7 +24884,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "45ca0d3b-20b3-4b15-8ad6-059d5f85db63")
-		(at 279.5 106.75 90)
+		(at 279.5 106.825 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D43"
@@ -26488,7 +26488,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4a70eed1-b3fc-444f-9095-02aa7b0e6970")
-		(at 285.1775 125.75 90)
+		(at 285.1775 125.825 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D58"
@@ -26873,7 +26873,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "4c03f391-403c-4b86-85f1-4baa95f4ac9e")
-		(at 190 125.76 90)
+		(at 190 125.835 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D53"
@@ -27937,7 +27937,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "5173fb28-6184-4e9a-87ae-5beb28a7b08f")
-		(at 270.7 109.06)
+		(at 270.7 109.135)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D116"
@@ -30038,7 +30038,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "5a5273d3-8596-4172-86cd-7e5b70756423")
-		(at 276.4275 128.1175)
+		(at 276.4275 128.1925)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D130"
@@ -30332,7 +30332,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "5ac2eabb-7127-47a7-8c96-af7fc3370f36")
-		(at 247 125.81 90)
+		(at 247 125.885 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D56"
@@ -31098,7 +31098,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "5c3cf0d1-1aab-440c-9d5e-b1b94f956be6")
-		(at 200.025 123.7675)
+		(at 200.025 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW54"
@@ -36987,7 +36987,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "637c6078-aec3-47f2-83b7-2b0a30d0632b")
-		(at 194.7 109.56)
+		(at 194.7 109.635)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D112"
@@ -41585,7 +41585,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "6e8a9559-2a7f-48df-982d-41a74558892e")
-		(at 200.1775 128.155)
+		(at 200.1775 128.2125)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D126"
@@ -42264,7 +42264,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "6f339855-eff6-4b47-9018-247b16d68ddd")
-		(at 222.5 106.75 90)
+		(at 222.5 106.825 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D40"
@@ -43034,7 +43034,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "70fbd920-a5f0-4b95-8b08-db4706ea4200")
-		(at 215.42 90.49)
+		(at 215.42 90.565)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D98"
@@ -44996,7 +44996,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "764901bf-a927-48f4-98c0-5688970ba8bd")
-		(at 175.45 109.435)
+		(at 175.45 109.51)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D111"
@@ -45830,7 +45830,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "7a8a525f-28eb-4d45-8d50-2dff6c1bbae9")
-		(at 213.45 109.56)
+		(at 213.45 109.635)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D113"
@@ -49380,7 +49380,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "8511b980-56a3-4167-92d6-644295195f86")
-		(at 251.7 109.06)
+		(at 251.7 109.135)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D115"
@@ -49968,7 +49968,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "89eef7c2-fd9b-4d14-a5b7-fbc492310dd5")
-		(at 209 125.655 90)
+		(at 209 125.7125 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D54"
@@ -51032,7 +51032,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "8e7d2995-83a1-413f-a9f0-dfe13a72e6e8")
-		(at 316.43625 147.51875)
+		(at 316.63625 147.51875)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D136"
@@ -52898,7 +52898,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "925b20ce-5368-4df6-8eec-4789d1b3a8ba")
-		(at 241.5 106.75 90)
+		(at 241.5 106.825 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D41"
@@ -54117,7 +54117,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "94c0e6c1-1d74-47dd-89ad-eb7367332ad4")
-		(at 177.165 85.65)
+		(at 177.165 85.725)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW22"
@@ -56464,7 +56464,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "9bd0d9b4-86a8-4b91-ba9d-eee9ebe19e7f")
-		(at 260.5 106.75 90)
+		(at 260.5 106.825 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D42"
@@ -57143,7 +57143,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "a15f0efe-6f08-4b4d-b792-dc641a1b5152")
-		(at 238.4275 128.6175)
+		(at 238.4275 128.6925)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D128"
@@ -57437,7 +57437,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "a4a5c73b-56bf-4b73-92b2-bf639728eb27")
-		(at 219.1775 128.155)
+		(at 219.1775 128.3175)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D127"
@@ -59923,7 +59923,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "aeccb81b-993e-4820-8512-2b503c3f3289")
-		(at 196.215 85.65)
+		(at 196.215 85.725)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW23"
@@ -61773,7 +61773,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "b6c804a0-d9c1-4268-9913-5e9a9ab62985")
-		(at 219.075 123.6625)
+		(at 219.075 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW55"
@@ -63826,7 +63826,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "bc35ffb3-68c1-492e-b9f9-9f3650cf7a8d")
-		(at 177.49 90.28125)
+		(at 177.49 90.35625)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D96"
@@ -64120,7 +64120,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "bcce2a86-77ad-4c9f-81c0-127df138a50c")
-		(at 232.45 109.185)
+		(at 232.45 109.26)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D114"
@@ -64414,7 +64414,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "bd727b47-05b9-451b-a3e1-039a8c8de75d")
-		(at 276.225 123.75)
+		(at 276.225 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW58"
@@ -64954,7 +64954,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c123d460-eb17-4dbb-a051-f108bd760c30")
-		(at 324.59375 144.705 90)
+		(at 324.79375 144.705 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D72"
@@ -67344,7 +67344,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "c64c68cb-7210-4254-b65d-26a1440fa781")
-		(at 203.2 106.68 90)
+		(at 203.2 106.755 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D38"
@@ -68654,7 +68654,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "c75fc27b-2951-4cb7-9552-d38120eb8f06")
-		(at 251.46 104.7)
+		(at 251.46 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW42"
@@ -70311,7 +70311,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "ca44ec88-b290-4115-9c1b-6d43b8c8d6b9")
-		(at 266 125.7425 90)
+		(at 266 125.8175 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D57"
@@ -71081,7 +71081,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "cf07ad49-dc8e-4e38-a37f-30c9acf9612b")
-		(at 316.03 142.875)
+		(at 316.23 142.875)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW69"
@@ -71621,7 +71621,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "cf0e2230-0d56-4af5-9012-a869ea6043e9")
-		(at 175.26 104.7)
+		(at 175.26 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW37"
@@ -76465,7 +76465,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "db12674b-0330-4872-aad7-f1963d204845")
-		(at 196.37 90.49)
+		(at 196.37 90.565)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D97"
@@ -80689,7 +80689,7 @@
 	(footprint "keyswitches.pretty-master:Kailh_socket_MX"
 		(layer "F.Cu")
 		(uuid "e5ee8344-2e6e-4fac-950b-0cc5ca7cd83a")
-		(at 270.51 104.7)
+		(at 270.51 104.775)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
 		(property "Reference" "SW43"
@@ -81908,7 +81908,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "eb16a594-535c-4e62-a288-6ca8069a5087")
-		(at 224 87.81 90)
+		(at 224 87.885 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D24"
@@ -82833,7 +82833,7 @@
 	(footprint "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 		(layer "F.Cu")
 		(uuid "ef1f0b3d-d472-4e85-9d45-dd1203012af8")
-		(at 257.4275 128.1175)
+		(at 257.4275 128.1925)
 		(descr "3.5mm x 3.5mm PLCC4 Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf")
 		(tags "LED RGB NeoPixel Mini PLCC-4 3535")
 		(property "Reference" "D129"
@@ -85271,7 +85271,7 @@
 	(footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "fc60bd6b-d4fe-4a59-9759-898dec3b2177")
-		(at 184.2 106.68 90)
+		(at 184.2 106.755 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
 		(property "Reference" "D37"
@@ -86786,16 +86786,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "775ee2dc-103f-499e-8b5d-16f74601827c")
-	)
-	(gr_line
-		(start -45.07125 151.48)
-		(end 388.62 151.48)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "97a57158-ed37-432d-8752-0d83abaa3051")
 	)
 	(gr_line
 		(start 388.62 151.48)
