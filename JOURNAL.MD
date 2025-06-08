@@ -72,4 +72,6 @@ no clue what im doing but i have to go study for the sat ![alt text](journalPics
 ok the flat layout is correct now i pray to god (like spacing and stuff) <br>
 ![alt text](journalPics/pcb1.4.png)
 time to rotate this shit and commit LMFAO <br>
+was not that bad actually. ![alt text](journalPics/pcb1.5.png)
 i feel like a monkey given access to kicad<br>
+referencing these keebs for looks: https://www.reddit.com/r/raspberry_pi/comments/x0rml6/pico_and_mechanical_keyboards_a_match_made_in/ and https://www.reddit.com/r/raspberry_pi/comments/mc9l6o/i_designed_a_raspberry_pi_pico_powered_mechanical/ <br>
