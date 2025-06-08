@@ -68,10 +68,16 @@ no clue what im doing but i have to go study for the sat ![alt text](journalPics
 ---
 # 6/7/2025
 # Entry #7
-## 5:08pm-
+## 5:08pm-7:30 | 2.5 hours<br>
 ok the flat layout is correct now i pray to god (like spacing and stuff) <br>
 ![alt text](journalPics/pcb1.4.png)
 time to rotate this shit and commit LMFAO <br>
 was not that bad actually. ![alt text](journalPics/pcb1.5.png)
 i feel like a monkey given access to kicad<br>
 referencing these keebs for looks: https://www.reddit.com/r/raspberry_pi/comments/x0rml6/pico_and_mechanical_keyboards_a_match_made_in/ and https://www.reddit.com/r/raspberry_pi/comments/mc9l6o/i_designed_a_raspberry_pi_pico_powered_mechanical/ <br>
+# 6/8/2025 <br>
+# Entry #8 <br>
+## 2:29am-3:23am | 1 hour <br>
+kittne ddaddys about to kill herself
+![alt text](journalPics/pcb1.6.png)
+basically i placed all my keys in the wrong place and theyre liike. in the perfect layout and i refuse to move them. so. im mnaullay renaming every switch and diode 💀💀 pls god kill me JK

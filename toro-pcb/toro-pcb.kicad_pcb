@@ -6371,7 +6371,7 @@
 		(at 358.165311 122.97375 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D61"
+		(property "Reference" "D65"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "5bd8c40c-2818-4856-9ce9-d8b4d5334bc7")
@@ -9531,7 +9531,7 @@
 		(at 349.352811 120.7)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW60"
+		(property "Reference" "SW65"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "ad159a5e-b29e-4ed8-b2ba-cdbda092da4c")
@@ -10052,7 +10052,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 94 "Col 15")
+			(net 95 "Col 16")
 			(pintype "passive")
 			(uuid "9cb3828b-52be-466e-84fb-610f006adc3e")
 		)
@@ -10060,7 +10060,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 62 "Net-(D60-A)")
+			(net 67 "Net-(D65-A)")
 			(pintype "passive")
 			(uuid "8ab4a31b-ccf9-4a47-bc63-850edc87f1eb")
 		)
@@ -10071,7 +10071,7 @@
 		(at 327.139061 123.825)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW73"
+		(property "Reference" "SW62"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "92d67a0f-1569-47b3-95d0-61504445e902")
@@ -10592,7 +10592,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 91 "Col 12")
+			(net 94 "Col 15")
 			(pintype "passive")
 			(uuid "466aa4e9-1708-49de-b3d1-ef3fcccbd76c")
 		)
@@ -10600,7 +10600,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 73 "Net-(D74-A)")
+			(net 64 "Net-(D62-A)")
 			(pintype "passive")
 			(uuid "c8d0bfb2-8491-416d-88f6-fc160754d6a6")
 		)
@@ -12616,7 +12616,7 @@
 		(at 346.189061 142.875)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW72"
+		(property "Reference" "SW61"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "f3cb6a08-851c-4575-9dd0-c0b11b8a03ff")
@@ -13137,7 +13137,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 91 "Col 12")
+			(net 95 "Col 16")
 			(pintype "passive")
 			(uuid "7de4db56-372f-4e79-8377-bc8afb001dd5")
 		)
@@ -13145,7 +13145,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 72 "Net-(D73-A)")
+			(net 63 "Net-(D61-A)")
 			(pintype "passive")
 			(uuid "1f3f4e1e-d5e9-4112-b4a4-e508bf6d7c38")
 		)
@@ -16082,7 +16082,7 @@
 		(at 85.806406 143.210201 -3)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW62"
+		(property "Reference" "SW30"
 			(at 0 -8.255 177)
 			(layer "B.SilkS")
 			(uuid "b0a13676-d64e-4f0e-a13b-949be93db8e6")
@@ -16603,7 +16603,7 @@
 			(at 6.29 -5.08 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 94 "Col 15")
+			(net 82 "Col 3")
 			(pintype "passive")
 			(uuid "9b639ff2-8be5-4cf1-9be6-02b71f288e41")
 		)
@@ -16611,7 +16611,7 @@
 			(at -7.56 -2.54 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 64 "Net-(D62-A)")
+			(net 34 "Net-(D30-A)")
 			(pintype "passive")
 			(uuid "c8d46695-cf83-4c9f-9c8c-22b345a37d41")
 		)
@@ -17269,7 +17269,7 @@
 		(at 349.352811 101.475)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW45"
+		(property "Reference" "SW64"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "426bc8d1-5828-4564-8247-5b82e0641481")
@@ -17790,7 +17790,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 87 "Col 8")
+			(net 95 "Col 16")
 			(pintype "passive")
 			(uuid "f63d6670-5232-4d63-a71a-d36665bf5eba")
 		)
@@ -17798,7 +17798,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 48 "Net-(D45-A)")
+			(net 66 "Net-(D64-A)")
 			(pintype "passive")
 			(uuid "d58e20d3-1782-4b63-a542-d68dd5e94e0c")
 		)
@@ -30783,7 +30783,7 @@
 		(at 358.165311 103.49875 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D45"
+		(property "Reference" "D64"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "e93d3111-f4f6-4cff-a0b0-2150e42330f8")
@@ -32323,7 +32323,7 @@
 		(at 140.505794 145.991757 -3)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW64"
+		(property "Reference" "SW32"
 			(at 0 -8.255 177)
 			(layer "B.SilkS")
 			(uuid "e045fbe8-88b6-4019-8af7-de87bf00260d")
@@ -32844,7 +32844,7 @@
 			(at 6.29 -5.08 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 95 "Col 16")
+			(net 84 "Col 5")
 			(pintype "passive")
 			(uuid "90659844-df1f-4b27-bdb0-9309e9be5a8e")
 		)
@@ -32852,7 +32852,7 @@
 			(at -7.56 -2.54 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 66 "Net-(D64-A)")
+			(net 36 "Net-(D32-A)")
 			(pintype "passive")
 			(uuid "db3fbb4f-75fa-4301-bb1b-5a73aa034ce2")
 		)
@@ -43375,7 +43375,7 @@
 		(at 358.165311 84.69875 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D30"
+		(property "Reference" "D63"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "307a81bb-1726-4211-9c67-453248d7b7bd")
@@ -43760,7 +43760,7 @@
 		(at 32.81 142.875)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW61"
+		(property "Reference" "SW27"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "72292897-d492-42b8-9f50-c70aff377a26")
@@ -44281,7 +44281,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 95 "Col 16")
+			(net 80 "Col 1")
 			(pintype "passive")
 			(uuid "18d14c1b-2d7b-460a-89ba-67553092a3c6")
 		)
@@ -44289,7 +44289,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 63 "Net-(D61-A)")
+			(net 30 "Net-(D27-A)")
 			(pintype "passive")
 			(uuid "071676ac-bce3-4def-8b80-06cf2529fe0e")
 		)
@@ -44840,7 +44840,7 @@
 		(at 355.295311 145.01875 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D74"
+		(property "Reference" "D61"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "6323f5df-181c-427a-a613-2883b1e29270")
@@ -45225,7 +45225,7 @@
 		(at 327.139061 142.875)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW71"
+		(property "Reference" "SW60"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "aab0b6cb-4d45-43f2-b09e-bbbf7a390a24")
@@ -45746,7 +45746,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 92 "Col 13")
+			(net 94 "Col 15")
 			(pintype "passive")
 			(uuid "b6250c89-0d50-476d-bf6f-0d67ef20219c")
 		)
@@ -45754,7 +45754,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 71 "Net-(D72-A)")
+			(net 62 "Net-(D60-A)")
 			(pintype "passive")
 			(uuid "d6367bc8-c145-4c0c-98ed-446c0e4a34fe")
 		)
@@ -46305,7 +46305,7 @@
 		(at 316.852811 144.705 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D72"
+		(property "Reference" "D59"
 			(at 3.49625 -1.9775 90)
 			(layer "F.SilkS")
 			(uuid "2f35af53-f746-4568-a595-0800a3d46a74")
@@ -46690,7 +46690,7 @@
 		(at 336.001561 125.79875 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D60"
+		(property "Reference" "D62"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "6e3aa459-3724-4c1e-9000-6616b1c66930")
@@ -46704,6 +46704,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "8e708264-7b44-4fc2-b6fc-91093ae9da58")
 			(effects
 				(font
@@ -50983,7 +50984,7 @@
 		(at 149.32408 148.476676 87)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D65"
+		(property "Reference" "D32"
 			(at 3.81 -2.12 87)
 			(layer "F.SilkS")
 			(uuid "1a4d574b-6b69-4070-b5e4-953a039c5c3c")
@@ -52138,7 +52139,7 @@
 		(at 308.289061 142.875)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW69"
+		(property "Reference" "SW59"
 			(at 0 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "d517c07b-fde7-4389-857b-f398e770e74d")
@@ -52659,7 +52660,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 90 "Col 11")
+			(net 93 "Col 14")
 			(pintype "passive")
 			(uuid "d76e59ce-e245-482e-8c66-8e05d2347da6")
 		)
@@ -52667,7 +52668,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 70 "Net-(D70-A)")
+			(net 61 "Net-(D59-A)")
 			(pintype "passive")
 			(uuid "6264b2ac-e81e-48fe-bab5-7622475a9dde")
 		)
@@ -53218,7 +53219,7 @@
 		(at 94.626947 145.795375 87)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D63"
+		(property "Reference" "D30"
 			(at 3.81 -2.12 87)
 			(layer "F.SilkS")
 			(uuid "f89ad913-22cd-41be-b060-4bf672619e2c")
@@ -57795,7 +57796,7 @@
 		(at 109.643693 144.45946 -3)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW63"
+		(property "Reference" "SW31"
 			(at 0 -8.255 177)
 			(layer "B.SilkS")
 			(uuid "9f47b358-d77c-42c3-b457-7d9dc913a495")
@@ -58316,7 +58317,7 @@
 			(at 6.29 -5.08 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 95 "Col 16")
+			(net 83 "Col 4")
 			(pintype "passive")
 			(uuid "de5b4a24-bacf-4f4a-b7e0-f61edcce2c3a")
 		)
@@ -58324,7 +58325,7 @@
 			(at -7.56 -2.54 357)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 65 "Net-(D63-A)")
+			(net 35 "Net-(D31-A)")
 			(pintype "passive")
 			(uuid "21da4099-87ee-4dd1-b2c1-30f3b63ee572")
 		)
@@ -58335,7 +58336,7 @@
 		(at 336.001561 145.01875 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D73"
+		(property "Reference" "D60"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "72be876d-740f-495f-ac19-bb83597b7d7a")
@@ -61832,7 +61833,7 @@
 		(at 41.735 144.935 90)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D62"
+		(property "Reference" "D27"
 			(at 3.81 -2.12 90)
 			(layer "F.SilkS")
 			(uuid "aea6321a-1149-45a7-bb05-89af56ae3a9f")
@@ -62217,7 +62218,7 @@
 		(at 349.352811 82.425)
 		(descr "MX-style keyswitch with Kailh socket mount")
 		(tags "MX,cherry,gateron,kailh,pg1511,socket")
-		(property "Reference" "SW30"
+		(property "Reference" "SW63"
 			(at 0.9475 -8.255 0)
 			(layer "B.SilkS")
 			(uuid "2950cb3f-6a70-4d93-8da6-e71a79bb0864")
@@ -62738,7 +62739,7 @@
 			(at 6.29 -5.08)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 82 "Col 3")
+			(net 95 "Col 16")
 			(pintype "passive")
 			(uuid "72e73f98-ee31-418d-8b32-ae699e7f9fd3")
 		)
@@ -62746,7 +62747,7 @@
 			(at -7.56 -2.54)
 			(size 2.55 2.5)
 			(layers "B.Cu" "B.Paste" "B.Mask")
-			(net 34 "Net-(D30-A)")
+			(net 65 "Net-(D63-A)")
 			(pintype "passive")
 			(uuid "9dec89fa-d770-4164-8057-27737e5169c0")
 		)
@@ -63297,7 +63298,7 @@
 		(at 118.53009 146.862832 87)
 		(descr "Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf")
 		(tags "Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm")
-		(property "Reference" "D64"
+		(property "Reference" "D31"
 			(at 3.815 -2.595 87)
 			(layer "F.SilkS")
 			(uuid "40663f09-bc98-4456-8577-bbcc28aea2e9")
@@ -87173,5 +87174,101 @@
 		(layer "B.Cu")
 		(net 17)
 		(uuid "f7b9d187-fc78-4275-bd7d-efa632d83ed2")
+	)
+	(segment
+		(start 336.020311 118.16)
+		(end 336.001561 118.17875)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 62)
+		(uuid "e9ec159f-5163-4deb-961f-8aaae419984c")
+	)
+	(segment
+		(start 341.792811 118.192811)
+		(end 342.4 118.8)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 67)
+		(uuid "2125eb41-9a1b-4e85-b8b6-fc1708dc8bd1")
+	)
+	(segment
+		(start 64.75 110.375)
+		(end 65.375 110.375)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "009f8783-e748-41df-8c39-63d8f5628c57")
+	)
+	(segment
+		(start 195.834741 132.269233)
+		(end 196.951456 131.152518)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "090a70a6-c613-41df-a457-a42099040678")
+	)
+	(segment
+		(start 328.026561 130.1)
+		(end 328.751561 129.375)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "38ccf519-f3f9-49a1-b3f5-3850a45b10b8")
+	)
+	(segment
+		(start 95 72.627889)
+		(end 95.169201 72.79709)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "45b33b1a-7a60-403a-ae86-2a8eb767345d")
+	)
+	(segment
+		(start 73.985 71.75)
+		(end 74.056573 71.678427)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "582d7bd8-a1b8-4a80-9c18-d2f879236d4c")
+	)
+	(segment
+		(start 215.930913 130.5)
+		(end 216.335303 130.90439)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "7982b31f-5527-45c3-9f1f-3df6858a23d7")
+	)
+	(segment
+		(start 196.951456 131.152518)
+		(end 197.355846 131.556908)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "86364350-f528-43dc-9395-224af546a97a")
+	)
+	(segment
+		(start 133.45617 74.980367)
+		(end 133.579167 74.85737)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "b0fe654b-84ad-47dc-9f3d-251e3c1d7d68")
+	)
+	(segment
+		(start 178.846792 113.77973)
+		(end 178.846792 113.953208)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "d4902d37-e0d0-42d7-ba5c-5e75376575fa")
+	)
+	(segment
+		(start 256.827811 71.835)
+		(end 256.877811 71.785)
+		(width 0.2)
+		(layer "B.Cu")
+		(net 75)
+		(uuid "fe410708-a950-4fc1-8abf-1e0a5fd72b46")
 	)
 )
