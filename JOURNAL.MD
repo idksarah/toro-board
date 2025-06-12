@@ -83,3 +83,17 @@ kittne ddaddys about to kill herself
 basically i placed all my keys in the wrong place and theyre liike. in the perfect layout and i refuse to move them. so. im mnaullay renaming every switch and diode 💀💀 pls god kill me JK
 im fried
 ![alt text](image.png)
+# 6/10/2025 <br>
+# Entry #9 <br>
+## 8:36pm-11:20pm | 3 hours <br>
+just got back from trip!!!!!! :D
+i think it's wired???? i had to lowk rename everyl ike. switch. and diode. bc i had them in the wrong palce. wtv
+![alt text](journalPics/pcb1.7.png)
+ummm i hope this works bc i have to go make a mouse now. bye.
+# 6/11/2025 <br>
+# Entry #10 <br>
+## 8:07 pm- <br>
+we so back bitches!!!<br>
+fixed some of the wiring. decided what i want the case to look like. prob gonna have to paint stuff on. time to get caddin! <br>
+silk screen stuff eheh![alt text](pcb1.8.png)
+type shit ![alt text](case1.png)
