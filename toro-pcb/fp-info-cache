@@ -1,4 +1,4 @@
-24501757022950988
+24505256425737257
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -98664,6 +98664,20 @@ MODULE_102010428
 0
 14
 14
+fun
+hackclub
+
+
+0
+0
+0
+fun
+toro
+
+
+0
+0
+0
 keyswitches.pretty-master
 Kailh_socket_MX
 MX-style keyswitch with Kailh socket mount

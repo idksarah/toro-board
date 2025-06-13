@@ -95,5 +95,10 @@ ummm i hope this works bc i have to go make a mouse now. bye.
 ## 8:07 pm- <br>
 we so back bitches!!!<br>
 fixed some of the wiring. decided what i want the case to look like. prob gonna have to paint stuff on. time to get caddin! <br>
-silk screen stuff eheh![alt text](pcb1.8.png)
-type shit ![alt text](case1.png)
+silk screen stuff eheh![alt text](journalPics/pcb1.8.png)
+type shit ![alt text](journalPics/case1.png)
+# 6/12/2025 <br>
+# Entry #11 <br>
+## 3 hours i swear
+cadded the shyt in onshape. the keys should be rotated but im p sure theyre not just bc my switch model didnt have pins. im suuuuure it'll work (famous last words)
+type shit ![alt text](journalPics/case1.1png)
