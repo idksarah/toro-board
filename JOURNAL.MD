@@ -102,3 +102,14 @@ type shit ![alt text](journalPics/case1.png)
 ## 3 hours i swear
 cadded the shyt in onshape. the keys should be rotated but im p sure theyre not just bc my switch model didnt have pins. im suuuuure it'll work (famous last words)
 type shit ![alt text](journalPics/case1.1png)
+# 6/15/2025 <br>
+# Entry #11 <br>
+# 2 hours ?
+rotated the keys bc i want the rotation to be 8 degrees instead of 3 💀
+# 6/16/2025<br>
+# Entry #12
+fixed the gaps between keys/rows in onshape + kicad. started on the plate. threw all the keycaps on the switches too. ss is without the caps bc thats how i was making the plate and im too lazy to unhide them. my computer is about to explode 💀
+![alt text](journalPics/case1.2.png) 
+# 6/17/25
+rewired pcb so my raspi can be like. .2 a mm closer to the keys 💀 (actually bc of the key rotation)
+![alt text](journalPics/pcb1.9.png)
