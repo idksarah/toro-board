@@ -2,7 +2,7 @@
 ![keeb](./journalPics/keeb.png)
 fully custom gasket mount 60% hot swappable alice keyboard using a raspberry pi pico. <br>
 <br>
-made this bc i love toro inoue and alice keyboards r sexy but i've already spent too much on keyboards :skull:
+made this bc i love toro inoue and alice keyboards r sexy but i've already spent too much on keyboards. also wanted to improve upon my skills from making a 3-key macropad.
 ![pcb](./journalPics/pcb1.9.png)
 ![idk](./journalPics/schematic1.2.png)
 
