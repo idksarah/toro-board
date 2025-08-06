@@ -114,3 +114,20 @@ fixed the gaps between keys/rows in onshape + kicad. started on the plate. threw
 # 6/17/25
 rewired pcb so my raspi can be like. .2 a mm closer to the keys 💀 (actually bc of the key rotation)
 ![alt text](journalPics/pcb1.9.png)
+# 7/28
+1 hours<br>
+soldered that shit! threw all the keys into the plate! and threw the keycaps on bc im overzealous like that<br>
+also ordered diodes, rotary encoder, and key stabilizers bc i apparently forgot 💀<br>
+# 8/1 <br>
+2 hours<br>
+soldered diodes. key stabilizers arrived. waiting on encoder <br>
+# 8/2 <br>
+2 hour<br>
+rewriting and testing kmk firmware bc u can't run qmk on a pico 💀. switches don't seem to work so just testing pcb with a ppclip.
+![alt text](journalPics/test1.png)
+# 8/6 <br>
+1 hour<br>
+assembly
+![alt text](journalPics/irl1.png)
+![alt text](journalPics/irl2.png)
+![alt text](journalPics/irl3.png)
