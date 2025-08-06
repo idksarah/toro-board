@@ -4,7 +4,7 @@ author: "sarah ngai | @idksarah"
 description: "keeb"
 created_at: "2025-04-6"
 ---
-# 23 hours
+# 29 hours
 # 6/4/2025 (June 4 2025) <br>
 # Entry #1<br>
 ## 4:25pm-5:51pm | 1.5 hours<br>
